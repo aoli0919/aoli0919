@@ -10,7 +10,10 @@
 
 ## 🔬 Research Interests
 - 🤖 **Neuromorphic Touch & Robotics**: Exploring how robots can learn from human tactile experiences.
-- 📊 **Data Analysis & Clustering**: Using **k-means**, **silhouette scores**, and **Van Rossum distance** to classify textures.
+
+## 🔬 Research Publications
+- 
+
 
 ## 🛠 Skills & Tools
 - **Python**: `pandas`, `scikit-learn`, `matplotlib`
