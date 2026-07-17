@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Ao Li profile banner">
+  <rect width="1200" height="360" rx="26" fill="#f8fafc"/>
+  <rect x="36" y="36" width="1128" height="288" rx="24" fill="#ffffff" stroke="#cbd5e1"/>
+
+  <text x="78" y="104" fill="#0f172a" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700">Ao Li</text>
+  <text x="78" y="142" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="20">Tactile robotics · embodied AI · agent-assisted learning systems</text>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="78" y="188" width="196" height="58" rx="14" fill="#e0f2fe" stroke="#0284c7"/>
+    <text x="176" y="213" text-anchor="middle" fill="#075985" font-size="15" font-weight="700">Neuromorphic Touch</text>
+    <text x="176" y="235" text-anchor="middle" fill="#334155" font-size="13">texture · contact · events</text>
+
+    <rect x="304" y="188" width="196" height="58" rx="14" fill="#dcfce7" stroke="#16a34a"/>
+    <text x="402" y="213" text-anchor="middle" fill="#166534" font-size="15" font-weight="700">Embodied AI</text>
+    <text x="402" y="235" text-anchor="middle" fill="#334155" font-size="13">perception -> action</text>
+
+    <rect x="530" y="188" width="196" height="58" rx="14" fill="#fef9c3" stroke="#ca8a04"/>
+    <text x="628" y="213" text-anchor="middle" fill="#854d0e" font-size="15" font-weight="700">Learning Skills</text>
+    <text x="628" y="235" text-anchor="middle" fill="#334155" font-size="13">100 skills · 20 repos</text>
+
+    <rect x="756" y="188" width="196" height="58" rx="14" fill="#fae8ff" stroke="#c026d3"/>
+    <text x="854" y="213" text-anchor="middle" fill="#86198f" font-size="15" font-weight="700">Research Tooling</text>
+    <text x="854" y="235" text-anchor="middle" fill="#334155" font-size="13">papers · code · trust</text>
+  </g>
+
+  <g stroke="#64748b" stroke-width="2" fill="none">
+    <path d="M176 260 C176 290 402 290 402 260"/>
+    <path d="M402 260 C402 300 628 300 628 260"/>
+    <path d="M628 260 C628 290 854 290 854 260"/>
+  </g>
+
+  <text x="78" y="302" fill="#64748b" font-family="Menlo, Consolas, monospace" font-size="15">next action + visible artifact + check question + reflection</text>
+</svg>

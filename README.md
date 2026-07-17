@@ -1,38 +1,68 @@
-# 👋 Hi there, I'm Ao Li!
+# Ao Li
 
-> 🌱 *Learning, Exploring, Innovating.*
+![Profile banner](assets/profile-banner.svg)
 
-## 🧑‍🔬 About Me
-- 🎓 **PhD Student in Engineering Mathematics** at **University of Bristol**.
-- 🤖 Specializing in **Tactile Robotics & Neuromorphic Touch**.
-- 📍 Originally from **Inner Mongolia, China**, currently based in **Bristol, England**.
-- 🌟 **ENFP personality** – Curious, energetic, and people-oriented!
+I am a PhD student in Engineering Mathematics at the University of Bristol, working around tactile robotics, neuromorphic touch, and embodied intelligence.
 
-## 🔬 Research Interests
-- 🤖 **Neuromorphic Touch & Robotics**: Exploring how robots can learn from human tactile experiences.
+Recently I have been building open-source agent skills for self-learning: tools that help beginners turn "I want to learn X" into a path, a project, a check question, and a feedback loop.
 
-## 🔬 Research Publications
-- 
+## Current Focus
 
+| Area | What I am exploring |
+| --- | --- |
+| Embodied AI and robotics | perception-action loops, tactile sensing, simulation-first learning, robot policy debugging |
+| Neuromorphic touch | event-based tactile sensing, texture, contact, force, speed, and human touch behavior |
+| Agent-assisted learning | skill packs, AI tutors, paper-to-practice workflows, codebase-to-course learning |
+| Research tooling | literature maps, reproduction plans, lab workflows, verification, and source trust |
 
-## 🛠 Skills & Tools
-- **Python**: `pandas`, `scikit-learn`, `matplotlib`
-- **Markdown & LaTeX**: For academic writing & documentation
-- **Git & GitHub**: Open-source collaboration
+## Featured Work
 
-## 📚 Featured Projects
-- 🔹 **[Texture Classification using Neuromorphic Sensors](#)** *(Ongoing)*
-- 🔹 **[Exploring Force & Speed in Human Touch](#)**
+| Project | Why it matters |
+| --- | --- |
+| [learn-anything-skills](https://github.com/aoli0919/learn-anything-skills) | 100 beginner-first agent skills for learning technical fields through maps, projects, tests, and reflection. |
+| [embodied-ai-robotics-skills](https://github.com/aoli0919/embodied-ai-robotics-skills) | A focused skill pack for learning embodied AI through simulation, perception-action loops, and robot policy debugging. |
+| [ai-paper-reading-skills](https://github.com/aoli0919/ai-paper-reading-skills) | Skills for turning AI papers into task setups, method cards, reproduction plans, and citation maps. |
+| [codebase-apprentice-skills](https://github.com/aoli0919/codebase-apprentice-skills) | Skills for turning real repositories into guided beginner courses and first contribution paths. |
+| [verification-trust-skills](https://github.com/aoli0919/verification-trust-skills) | Skills for checking claims, auditing sources, detecting hallucinations, and labeling uncertainty. |
+| [Human-Texture-Exploration-Experiment](https://github.com/aoli0919/Human-Texture-Exploration-Experiment) | Research code around human touch, force, speed, and texture exploration. |
 
+Full satellite skill index: [learn-anything-skills/docs/SATELLITE_REPOS.md](https://github.com/aoli0919/learn-anything-skills/blob/main/docs/SATELLITE_REPOS.md)
 
-## 📊 GitHub Stats
-![Ao's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoli0919&show_icons=true&theme=buefy)
+## Skill Ecosystem
 
-## 🎭 Hobbies & Interests
-- 🏀 **Sports**: Enjoys playing **basketball** and **badminton**.
-- 🌍 **Traveling**: Has visited **France, Italy, Greece, Netherlands, Belgium, Turkey, and Switzerland** – adds new destinations every year!
-- 📸 **Photography**: Uses **Fujifilm X-T5** & **DJI Action 5 Pro** to capture moments.
-- 🎮 **Gaming**: Loves **Paradox games** (*Crusader Kings III, Hearts of Iron IV*) and **MOBA games** (*League of Legends*, *DOTA2*).
----
+```text
+learn-anything-skills
+  -> AI paper reading
+  -> embodied AI and robotics
+  -> codebase apprenticeship
+  -> human writing
+  -> verification and trust
+  -> learning OS productivity
+  -> startup, market, career, API, data, and research workflows
+```
 
-💡 *Let's connect & innovate!* 🚀
+The design rule is simple:
+
+```text
+next action + visible artifact + check question + what to ignore + reflection
+```
+
+## Research Interests
+
+- tactile robotics and neuromorphic touch
+- embodied intelligence and robot learning
+- human texture exploration and contact behavior
+- AI-assisted research workflows
+- beginner-friendly technical education
+
+## Tools I Use
+
+`Python` · `Jupyter` · `NumPy` · `pandas` · `scikit-learn` · `matplotlib` · `GitHub Actions` · `Markdown` · `LaTeX`
+
+## GitHub Snapshot
+
+![Ao's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoli0919&show_icons=true&theme=default&hide_border=true)
+
+## Notes
+
+I like building small systems that make hard fields less lonely to enter. My current open-source direction is practical: if a tool does not help someone decide what to do today, it is not finished yet.
