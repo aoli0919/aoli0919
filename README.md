@@ -2,62 +2,40 @@
 
 ![Profile banner](assets/profile-banner.svg)
 
-I am a PhD student in Engineering Mathematics at the University of Bristol, working around tactile robotics, neuromorphic touch, and embodied intelligence.
+I am a PhD student in Engineering Mathematics at the University of Bristol.
+My work sits around tactile robotics, neuromorphic touch, embodied intelligence, and the small research tools that make experiments easier to reason about.
 
-Recently I have been building open-source agent skills for self-learning: tools that help beginners turn "I want to learn X" into a path, a project, a check question, and a feedback loop.
+The part I keep coming back to is simple: touch is messy, fast, and physical. A robot still has to turn it into something it can use.
 
 ## Current Focus
 
 | Area | What I am exploring |
 | --- | --- |
-| Embodied AI and robotics | perception-action loops, tactile sensing, simulation-first learning, robot policy debugging |
-| Neuromorphic touch | event-based tactile sensing, texture, contact, force, speed, and human touch behavior |
-| Agent-assisted learning | skill packs, AI tutors, paper-to-practice workflows, codebase-to-course learning |
-| Research tooling | literature maps, reproduction plans, lab workflows, verification, and source trust |
+| Tactile robotics | How contact, force, speed, and surface texture change the way a hand should move. |
+| Neuromorphic touch | Event-based sensing, tactile signals, and the link between raw contact and useful perception. |
+| Embodied intelligence | Perception-action loops, robot behavior, and the gap between a clean demo and the real world. |
+| Research tooling | Notes, experiments, scripts, and AI-assisted workflows that help me think more clearly. |
 
 ## Featured Work
 
-| Project | Why it matters |
+| Project | Notes |
 | --- | --- |
-| [learn-anything-skills](https://github.com/aoli0919/learn-anything-skills) | 100 beginner-first agent skills for learning technical fields through maps, projects, tests, and reflection. |
-| [embodied-ai-robotics-skills](https://github.com/aoli0919/embodied-ai-robotics-skills) | A focused skill pack for learning embodied AI through simulation, perception-action loops, and robot policy debugging. |
-| [ai-paper-reading-skills](https://github.com/aoli0919/ai-paper-reading-skills) | Skills for turning AI papers into task setups, method cards, reproduction plans, and citation maps. |
-| [codebase-apprentice-skills](https://github.com/aoli0919/codebase-apprentice-skills) | Skills for turning real repositories into guided beginner courses and first contribution paths. |
-| [verification-trust-skills](https://github.com/aoli0919/verification-trust-skills) | Skills for checking claims, auditing sources, detecting hallucinations, and labeling uncertainty. |
-| [Human-Texture-Exploration-Experiment](https://github.com/aoli0919/Human-Texture-Exploration-Experiment) | Research code around human touch, force, speed, and texture exploration. |
-
-Full satellite skill index: [learn-anything-skills/docs/SATELLITE_REPOS.md](https://github.com/aoli0919/learn-anything-skills/blob/main/docs/SATELLITE_REPOS.md)
-
-## Skill Ecosystem
-
-```text
-learn-anything-skills
-  -> AI paper reading
-  -> embodied AI and robotics
-  -> codebase apprenticeship
-  -> human writing
-  -> verification and trust
-  -> learning OS productivity
-  -> startup, market, career, API, data, and research workflows
-```
-
-The design rule is simple:
-
-```text
-next action + visible artifact + check question + what to ignore + reflection
-```
+| [Human-Texture-Exploration-Experiment](https://github.com/aoli0919/Human-Texture-Exploration-Experiment) | Research code around human touch, texture exploration, force, and speed. |
+| [2023BristolRobotics](https://github.com/aoli0919/2023BristolRobotics) | Dissertation-related robotics code from Bristol. |
+| [NMA_Course](https://github.com/aoli0919/NMA_Course) | Computational neuroscience coursework and notes. |
+| [aoli0919.github.io](https://github.com/aoli0919/aoli0919.github.io) | Personal website source. |
 
 ## Research Interests
 
 - tactile robotics and neuromorphic touch
-- embodied intelligence and robot learning
 - human texture exploration and contact behavior
-- AI-assisted research workflows
-- beginner-friendly technical education
+- embodied AI and robot learning
+- computational neuroscience
+- practical research workflows
 
 ## Tools I Use
 
-`Python` · `Jupyter` · `NumPy` · `pandas` · `scikit-learn` · `matplotlib` · `GitHub Actions` · `Markdown` · `LaTeX`
+`Python` | `Jupyter` | `NumPy` | `pandas` | `scikit-learn` | `matplotlib` | `Markdown` | `LaTeX`
 
 ## GitHub Snapshot
 
@@ -65,4 +43,4 @@ next action + visible artifact + check question + what to ignore + reflection
 
 ## Notes
 
-I like building small systems that make hard fields less lonely to enter. My current open-source direction is practical: if a tool does not help someone decide what to do today, it is not finished yet.
+I like building small systems that make unclear things easier to test: a cleaner experiment log, a sharper plot, a better question, or one script that removes a little friction from tomorrow.
