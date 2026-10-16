@@ -1,46 +1,32 @@
 # Ao Li
 
-![Profile banner](assets/profile-banner.svg)
+![Embodied intelligence through touch](assets/profile-banner.svg)
 
-I am a PhD student in Engineering Mathematics at the University of Bristol.
-My work sits around tactile robotics, neuromorphic touch, embodied intelligence, and the small research tools that make experiments easier to reason about.
+I am a PhD student in Engineering Mathematics at the University of Bristol. My research interests are tactile robotics, human texture exploration, and embodied intelligence.
 
-The part I keep coming back to is simple: touch is messy, fast, and physical. A robot still has to turn it into something it can use.
+[Website](https://iamliao.com/) · [Email](mailto:ao.li@bristol.ac.uk)
 
-## Current Focus
+## Selected Publications
 
-| Area | What I am exploring |
-| --- | --- |
-| Tactile robotics | How contact, force, speed, and surface texture change the way a hand should move. |
-| Neuromorphic touch | Event-based sensing, tactile signals, and the link between raw contact and useful perception. |
-| Embodied intelligence | Perception-action loops, robot behavior, and the gap between a clean demo and the real world. |
-| Research tooling | Notes, experiments, scripts, and AI-assisted workflows that help me think more clearly. |
+- [Velocity Modulation in Robotic Texture Exploration Based on Human Perceptual Dimensions](https://doi.org/10.1109/HUMANOIDS65713.2025.11203031) — Humanoids, 2025.
+- [Exploratory Movement Strategies for Texture Discrimination with a Neuromorphic Tactile Sensor](https://arxiv.org/abs/2509.14954) — IROS, 2025.
+- [Neuromorphic touch for robotics—a review](https://doi.org/10.1088/2634-4386/adf091) — Neuromorphic Computing and Engineering, 2025.
 
-## Featured Work
+## Public Research
 
-| Project | Notes |
-| --- | --- |
-| [Human-Texture-Exploration-Experiment](https://github.com/aoli0919/Human-Texture-Exploration-Experiment) | Research code around human touch, texture exploration, force, and speed. |
-| [2023BristolRobotics](https://github.com/aoli0919/2023BristolRobotics) | Dissertation-related robotics code from Bristol. |
-| [NMA_Course](https://github.com/aoli0919/NMA_Course) | Computational neuroscience coursework and notes. |
-| [aoli0919.github.io](https://github.com/aoli0919/aoli0919.github.io) | Personal website source. |
+[**Human Strategies for Single Finger Texture Exploration**](https://github.com/aoli0919/Human-Texture-Exploration-Experiment) — Experimental materials and acquisition code for human single-finger texture exploration, with force, motion, and perceptual data. This work provides a foundation for my interest in how touch can guide robot behavior.
+
+Earlier related work is available in [2023BristolRobotics](https://github.com/aoli0919/2023BristolRobotics).
+
+## Current Direction — In Progress
+
+I am working on integrating tactile sensing into vision-language-action (VLA) models, toward vision-tactile-language-action (VTLA) systems. The research question is how contact feedback can inform a robot's next action during manipulation. Tactile integration is in progress.
+
+The platform uses a Franka Panda with TacTip sensors replacing the gripper's original fingertips, an external ZED2i camera, and a wrist-mounted Intel RealSense D435. Compute: RTX 5090.
 
 ## Research Interests
 
-- tactile robotics and neuromorphic touch
-- human texture exploration and contact behavior
-- embodied AI and robot learning
-- computational neuroscience
-- practical research workflows
-
-## Tools I Use
-
-`Python` | `Jupyter` | `NumPy` | `pandas` | `scikit-learn` | `matplotlib` | `Markdown` | `LaTeX`
-
-## GitHub Snapshot
-
-![Ao's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoli0919&show_icons=true&theme=default&hide_border=true)
-
-## Notes
-
-I like building small systems that make unclear things easier to test: a cleaner experiment log, a sharper plot, a better question, or one script that removes a little friction from tomorrow.
+- Tactile perception and active exploration
+- Human texture perception, contact force, and exploratory motion
+- Touch-informed robot learning and manipulation
+- Neuromorphic touch and computational neuroscience
